@@ -7,7 +7,8 @@ This set of scripts provides an example for how to generate DropSynth oligos for
  * python 3.5 environment
   * python-levenshtein
   * biopython  
-* [unafold-3.8](http://homepages.rpi.edu/~zukerm/download/UNAFold_download.html) (only require hybrid-ss-min)
+* [unafold-3.8](http://www.unafold.org/) (only require hybrid-ss-min)
+* [BLAT](https://genome.ucsc.edu/FAQ/FAQblat.html#blat3)
 * extract Entrez XML files from folA_entrez.zip
 
 #### Sequence input
